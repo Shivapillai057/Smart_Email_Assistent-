@@ -1,0 +1,17 @@
+# Smart Email Assistant — Requirements
+# 5th Semester Minor Project
+
+# ── Core ML / NLP ──────────────────────────────────────────────────────────
+scikit-learn>=1.3.0
+transformers>=4.40.0
+torch>=2.0.0
+
+# ── Data ───────────────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── Frontend ───────────────────────────────────────────────────────────────
+streamlit>=1.33.0
+
+# ── Tokenizer dependency ───────────────────────────────────────────────────
+sentencepiece>=0.1.99
